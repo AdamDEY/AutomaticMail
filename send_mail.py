@@ -13,7 +13,7 @@ email_password = 'password'
 subject = 'Welcome to Our Service'
 
 # Path to the file you want to attach
-file_path = r'file path'  # Replace with the actual file path
+file_path = r'file path (pdf,txt,...)'  # Replace with the actual file path
 
 # HTML content of the email
 html_content = """
